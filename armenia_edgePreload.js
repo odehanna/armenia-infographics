@@ -67,7 +67,7 @@ preContent={
         id: 'preloader4',
         type: 'image',
         tag: 'img',
-        rect: ['326px', '198px','120px','120px','auto', 'auto'],
+        rect: ['353px', '105px','43px','42px','auto', 'auto'],
         fill: ["rgba(0,0,0,0)",'images/preloader4.gif','0px','0px']
     }]};//simpleContent
 

@@ -26,7 +26,7 @@
 	"stage-Default Timeline_mark_ms":"-1",
 	"nextElementColorIndex":"8",
 	"pref__general__GenerateSmoothTransitions":"false",
-	"StageZoomFactor":"254",
+	"StageZoomFactor":"64",
 	"pixelsPerMs":"0.1051049260079",
 	"symbol_title_lines":{
 		"element_${_RectangleCopy3}":{
@@ -67,7 +67,8 @@
    }},\
 \"Preloader\": {\
    \"timelines\": {\
-\
+      \"Default Timeline\": {\
+      }\
    }},\
 \"Down-level\": {\
    \"timelines\": {\
@@ -79,10 +80,10 @@
 	"expanded:images/Armenia_opt4.jpg":"nil",
 	"stage-Default Timeline_playhead_ms":"3333",
 	"Down-level-Default Timeline_playhead_ms":"0",
-	"viewStartY":"16",
+	"viewStartY":"0",
 	"expanded:images/preloader4.gif":"nil",
 	"expanded:images/bg_part1.png":"nil",
-	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
 	"symbol_stage":{
 		"element_${_RectangleCopy4}":{
 			"timelineColor2":"0xb099ce",
