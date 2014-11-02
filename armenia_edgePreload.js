@@ -52,6 +52,7 @@ if(document.addEventListener ){
    aLoader = [
       { load: "edge_includes/jquery-2.0.3.min.js"},
       { load: "edge_includes/edge.4.0.0.min.js"},
+      { load: "js/modernizr.custom.js", user: true },
       { load: "armenia_edge.js"},
       { load: "armenia_edgeActions.js"}];
 
